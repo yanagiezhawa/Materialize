@@ -1,0 +1,465 @@
+.centeral-gmb {
+	width: 15%;
+	display: block;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.skill{
+	    color: #9e9e9e;
+	    font-size: 18px;
+}
+
+.abotme {
+	padding: 2px 38px;
+    padding-bottom: 5px;
+}
+
+.abotme h5 {
+	color: #2196f3;
+	font-weight: 400;
+}
+
+/*.section-title{
+	    position: relative;
+    margin: -2px;
+}
+
+.section-title a {
+	position: absolute;
+    margin: 19px 12px;
+    padding-right: 40px;
+    padding-top: 1px;
+}
+
+ .section-title i {
+	    position: absolute;
+    padding: 0px;
+}
+
+.section-title h5 {
+	margin: 30px 60px;
+    font-weight: bold;
+    margin-bottom: -6px;
+}
+
+.section-title:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    margin: 16px 163px;
+    width: 56%;
+    border: 5px solid #0089ec;
+
+}
+
+.almt {
+	position: absolute;
+	margin:67px 47px;
+	 width: 100%;
+}
+
+.almt a {
+	position: absolute;
+    margin: 19px 12px;
+    padding-right: 40px;
+    padding-top: 1px;
+}
+
+ .almt i {
+	position: absolute;
+    margin: -29px -4px;
+}
+
+.almt h6 {
+	 margin: -22px 41px;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+}
+.almt p {
+	   
+    font-size: 14px;
+    margin: 30px 40px;
+    margin-bottom: 41px;
+}
+*/
+
+.section-title{
+	position: relative;
+    margin: -21px;
+}
+
+.section-title a {
+	    position: relative;
+    margin: 10px -1px;
+}
+
+ .section-title i {
+	      position: relative;
+    margin: -2px 5px;
+}
+
+.section-title h5 {
+	    position: relative;
+    margin: -40px 60px;
+    font-weight: bold;
+    margin-bottom: 13px;
+}
+
+.section-title:before {
+       content: "";
+    position: relative;
+    top: 50%;
+    left: 0;
+    margin: 0px 169px;
+    padding: 48px 200px;
+    width: 120%;
+    /*border-bottom: 7px solid #0089ec;*/
+}
+
+.almt {
+	position: absolute;
+	margin:20px 16px;
+	 width: 100%;
+	 display: block;
+}
+
+.sidebarcolosep {
+	position: relative;
+    margin: 10px -1px;
+}
+
+.sidebarcolosep a {
+	position: absolute;
+    margin: 19px 12px;
+    padding-right: 40px;
+    padding-top: 1px;
+}
+
+ .sidebarcolosep i {
+    margin: -27px -4px;
+    top: 5px;
+}
+
+.sidebarcolosep h6 {
+	 margin: -22px 41px;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+}
+.sidebarcolosep p {
+	    font-size: 14px;
+    margin: 30px 42px 33px;
+    width: 100%;
+}
+
+/*============*/
+.cbp-title{
+	    position: relative;
+    margin: -11px;
+        padding-left: 28px;
+}
+
+.cbp-title a {
+	    position: relative;
+    margin: 10px -1px;
+}
+
+ .cbp-title i {
+	      position: relative;
+
+}
+
+.cbp-title h5 {
+	position: relative;
+    margin: -40px 60px;
+    font-weight: bold;
+    margin-bottom: 13px;
+}
+
+.cbp-title:before {
+       content: "";
+    position: relative;
+    top: 50%;
+    left: 0;
+       margin: 0px 251px;
+    padding: 37px 295px;
+    width: 120%;
+    border-bottom: 7px solid #f44336;
+}
+
+
+.cbp_tmtimeline {
+	margin: 28px -5px 0 0;
+    padding: 0px;
+    list-style: none;
+    position: relative;
+}
+.cbp_tmtimeline>li .cbp_tmtime {
+    display: block;
+    width: 36%;
+    margin: 58px -6px;
+    padding-right: 112px;
+    position: absolute;
+}
+
+.cbp_tmtimeline>li .cbp_tmtime span:first-child {
+    font-size: 0.9em;
+    color: #777777;
+}
+
+.cbp_tmtimeline>li .cbp_tmtime span {
+    display: block;
+    text-align: right;
+}
+
+.cbp_tmtimeline:before {
+    content: '';
+    position: absolute;
+    top: 60px;
+    height: 75%;
+    padding-bottom: 0px;
+    bottom: 0;
+    width: 10px;
+    background: #c5cae9;
+    left: 24%;
+    margin-left: -10px;
+}
+
+/*========================*/
+
+.cbp_tmtimeline>li .cbp_tmicon {
+    width: 30px;
+    height: 30px;
+    font-size: 1.4em;
+    line-height: 40px;
+    -webkit-font-smoothing: antialiased;
+    position: absolute;
+    color: #fff;
+    background: #3f51b5;
+    border-radius: 50%;
+    box-shadow: 0 0 0 8px #c5cae9;
+    text-align: center;
+    left: 25%;
+    /*height: 100%;*/
+    /*top: 62px;*/
+    margin: 64px 0 0 -25px;
+}
+
+/*.cbp_tmtimeline>li:nth-child(odd) .cbp_tmlabel {
+    background: #303f9f;
+}*/
+
+.cbp_tmtimeline>li .cbp_tmlabel {
+    margin: 0 0 15px 30%;
+    background: #0b85dc;
+    color: #fff;
+    padding: 12px;
+    font-size: 1.2em;
+    font-weight: 300;
+    line-height: 1.4;
+    position: relative;
+    border-radius: 5px;
+    border: solid transparent;
+}
+
+.cbp_tmtimeline>li .cbp_tmlabel h2 {
+    margin-top: 0px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    line-height: 26px;
+    color:#FFEB3B;
+}
+
+.cbp_tmtimeline>li .cbp_tmlabel p.light-text {
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 20px;
+}
+
+.cbp_tmtimeline>li .cbp_tmlabel p {
+    font-size: 16px;
+    line-height: 18px;
+    margin: 10px 0;
+}
+
+.cbp_tmtimeline>li .cbp_tmlabel:after {
+    right: 100%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-right-color: #0b85dc;
+    border-width: 21px;
+    top: 56px;
+    z-index: 100;
+}
+
+
+
+
+
+
+
+
+#menu-wrap {
+  width:100%;
+  height:auto;
+/*  border-bottom:#09F thin solid;
+  border-bottom-width:3px;*/
+  padding:0px 0px 0px 0px;
+
+  text-align:center;
+  line-height:13px;
+
+}
+
+#menu-wrap .menu-item {
+    width: 41px;
+    height: 60px;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+#menu-wrap .menu-item i {
+    width:100%;
+  padding:7px 0px 5px 0px;
+  border-radius:3px;
+}
+
+#menu-wrap .menu-item i.fa-facebook {
+  background:#3B5998;
+  color:#FFF;
+}
+#menu-wrap .menu-item i.fa-twitter {
+  background:#44CCF6;
+  color:#FFF;
+}
+#menu-wrap .menu-item i.fa-youtube {
+  background:#CE332D;
+  color:#FFF;
+}
+#menu-wrap .menu-item i.fa-linkedin {
+  background:#0275B6;
+  color:#FFF;
+}
+#menu-wrap .menu-item i.fa-google-plus {
+  background:#D13F2D;
+  color:#FFF;
+}
+#menu-wrap .menu-item i.fa-dribbble {
+  background:#EA4C89;
+  color:#FFF;
+}
+#menu-wrap .menu-item i.fa-pinterest-square {
+  background:#CB2027;
+  color:#FFF;
+}
+#menu-wrap .menu-item i.fa-stack-overflow {
+  background:#FEA501;
+  color:#FFF;
+}
+#menu-wrap .menu-item i.fa-tumblr {
+  background:#274152;
+  color:#FFF;
+}
+#menu-wrap .menu-item i.fa-instagram {
+  background:#517FA3;
+  color:#FFF;
+}
+#menu-wrap .menu-item i.fa-vimeo-square {
+  background:#86C9EF;
+  color:#FFF;
+}
+#menu-wrap .menu-item i.fa-github {
+  background:#000000;
+  color:#FFF;
+}
+  
+#menu-wrap .menu-item span {
+  width:32px;
+  height:32px;
+    position: absolute;
+    top: 10px;
+    left: 5px;
+    text-align: center;
+    -webkit-transition: all 0.7s ease-in-out;
+    -moz-transition: all 0.7s ease-in-out;
+    -ms-transition: all 0.7s ease-in-out;
+    -o-transition: all 0.7s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    display: block;
+  color:#445878;
+
+/*  border:#09F thin solid;
+  border-width:2px;*/
+  border-radius:50%;
+}
+
+#menu-wrap .menu-item span:hover {
+    top: -29px;
+  font-size:20px;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+span.active {
+  top:100px !important;
+  font-size:0px !important;
+}
+
+#menu-wrap .menu-item a {
+  text-decoration:none;
+}
+
+#menu-wrap .menu-item .text {
+  text-decoration: none;
+    font-size: 25px;
+    padding:0px 0px 0px 0px;
+    text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight:normal;
+    width: 100%;
+    position: absolute;
+    bottom: -46px;
+  left:0;
+    display: block;
+ 
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+#menu-wrap .menu-item:hover > .text {
+  padding:0px 0px 17px 0px;
+  bottom:-10px;
+  font-size:25px;
+    -webkit-transition: all 0.5s ease-in-out;
+   -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+  text-align:center;
+}
+#menu-wrap .menu-item .icon {
+    width: 0px;
+    height: 32px;
+  padding:7px 9px 5px 4px;
+  font-size:28px;
+  text-align:center;
+}

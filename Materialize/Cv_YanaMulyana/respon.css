@@ -1,0 +1,45 @@
+/*320px*/
+@media(max-width: 320px){
+	i.medium {
+    font-size: 2rem;
+    margin: 1px -9px;
+}
+	.section-title{
+	position: absolute;
+    margin: -24px 22px;
+    font-size: 12px;
+}
+	.section-title:before{
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    margin: 12px -20px;
+    width: 164%;
+    border: 2px solid #0089ec
+}
+	.profile-text {
+	text-align: justify;
+    font-size: 11px;
+    margin: 1px;
+}
+}
+
+
+/*@media(min-width: 720px) and (max-width: 992px){
+	.section-title{
+	position: absolute;
+    margin: -38px 59px;
+    font-weight: 600;;
+}
+	.section-title:before{
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    margin: -3px 83px;
+    width: 217%;
+    border: 5px solid #c2185b;
+}*/
+
+}
